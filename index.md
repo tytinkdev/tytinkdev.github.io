@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Seattle Home Values](/home_val_proj)
+<img src="images/Screen Shot 2021-01-20 at 7.01.35 PM.png"/>
+
+---
+[Wine Quality](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Facebook study](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
