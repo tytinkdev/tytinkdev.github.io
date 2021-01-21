@@ -2,17 +2,15 @@
 
 ---
 
-## Category Name 1 
-
-[Seattle Home Values](/home_val_proj)
+## [Seattle Home Values](/home_val_proj)
 <img src="images/housing_compilation.png"/>
 
 ---
-[Wine Quality](/pdf/sample_presentation.pdf)
+## [Wine Quality](/pdf/sample_presentation.pdf)
 <img src="images/wine_compilation.png"/>
 
 ---
-[Facebook study](http://example.com/)
+## [Facebook study](http://example.com/)
 <img src="images/facebook_compilation.png"/>
 
 ---
