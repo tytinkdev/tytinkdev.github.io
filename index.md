@@ -9,7 +9,7 @@
 
 ---
 [Wine Quality](/pdf/sample_presentation.pdf)
-<img src="images/wine_compilation"/>
+<img src="images/wine_compilation.png"/>
 
 ---
 [Facebook study](http://example.com/)
