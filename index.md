@@ -3,15 +3,15 @@
 ---
 ## Projects
 
-## [Seattle Home Values]()
+## [Seattle Home Values](www.tytinker.com)
 <img src="images/housing_compilation.png"/>
 
 ---
-## [Wine Quality]()
+## [Wine Quality](www.tytinker.com)
 <img src="images/wine_compilation.png"/>
 
 ---
-## [Facebook study]()
+## [Facebook study](www.tytinker.com)
 <img src="images/facebook_compilation.png"/>
 
 ---
