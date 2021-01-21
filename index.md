@@ -9,7 +9,7 @@
 
 ---
 [Wine Quality](/pdf/sample_presentation.pdf)
-<img src="images/Screen Shot 2021-01-20 at 7.02.49 PM.png"/>
+<img src="images/wine_compilation"/>
 
 ---
 [Facebook study](http://example.com/)
