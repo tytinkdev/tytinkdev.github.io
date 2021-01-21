@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Seattle Home Values](/home_val_proj)
-<img src="images/house_compilation.png"/>
+<img src="images/housing_compilation.png"/>
 
 ---
 [Wine Quality](/pdf/sample_presentation.pdf)
