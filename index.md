@@ -1,21 +1,22 @@
 # Portfolio
 
 ---
+## Projects
 
-## [Seattle Home Values](/home_val_proj)
+## [Seattle Home Values]()
 <img src="images/housing_compilation.png"/>
 
 ---
-## [Wine Quality](/pdf/sample_presentation.pdf)
+## [Wine Quality]()
 <img src="images/wine_compilation.png"/>
 
 ---
-## [Facebook study](http://example.com/)
+## [Facebook study]()
 <img src="images/facebook_compilation.png"/>
 
 ---
 
-## Category Name 2
+## E
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
